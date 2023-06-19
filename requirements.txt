@@ -1,0 +1,8 @@
+backtrader==1.9.78.123
+environs==9.5.0
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.2
+python-binance==1.0.17
+TA-Lib==0.4.26
+
